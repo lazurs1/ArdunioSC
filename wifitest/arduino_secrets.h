@@ -1,0 +1,5 @@
+#define SECRET_SSID "lazurs2.4"
+#define SECRET_PASS "Donna01!"
+//#define String OW_API_KEY "ec54da46d35b3b09e017903af2f2a550"
+//#define String BASE_URL "http://api.openweathermap.org/data/2.5/weather?"
+//#define String ZIP "48152"
